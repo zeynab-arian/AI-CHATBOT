@@ -76,9 +76,11 @@
 ## 4. تصاویر و مستندات
 ### نمونه رابط کاربری چت‌بات
 **نمای وب**
+
 ![interface](/chatbot2.png)
 **نمای موبایل**
-<img src="/chatbot.jpg" width="35%" alt="chatbot mobile interface" />نمایی از رابط کاربری چت‌بات و نحوه تعامل کاربر با سامانه در فرآیند پرسش و دریافت پاسخ.
+
+<img src="/chatbot.jpg" width="35%" alt="chatbot mobile interface" />
 
 
 ---
